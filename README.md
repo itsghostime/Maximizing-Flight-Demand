@@ -41,8 +41,38 @@ In 2022, the airline industry demonstrated consistent travel demand, with over 9
 ## Insights Deep Dive
 
 ### Flight Volume Trends
-- **Seasonal peaks**: Summer recorded the highest flight volumes (25,123), while Winter saw a dip to 23,993 flights.
-- **Steady growth**: A 3-month moving average revealed a stable upward trend, signaling growing confidence in air travel.
+- Summer recorded the highest flight volumes (25,123), while Winter saw a dip to 23,993 flights.
+- A 3-month moving average revealed a stable upward trend, signaling growing confidence in air travel.
+-The months of January, May, and August showed significant peaks in flight activity. January's spike was attributed to New Year travel, while May and August aligned with summer vacations. 
 
+### Passenger Demographics
+- Adults made up 48% of all passengers, while minors are around 18.8%. Interestingly, seniors make up 33.2%, suggesting that a significant portion of travelers are older adults, possibly due to leisure travel or visiting family.
+- The gender ratio was nearly equal, with 50.6% male and 49.4% female passengers.
+- Chinese (18,317) and Indonesian (10,559) passengers are the dominant passenger nationality.
+- Countries like the United States, Canada, and Australia were the top three most visited countries.
 
+### Flight Delay Patterns
+- North America experiences the highest delays (60%).
+- Overall, Weekdays saw 71.4% of these delays, while weekends saw 28.6%
+- While North America leads, Asia’s delay rate remains substantial accounting for 30% of its delays, especially in high-traffic countries like China and India.
+- During Fall, weather disruptions and increased air traffic contributed to higher delay rates compared to other seasons.
 
+### Seasonal Travel Insights
+- With 25,123 flights, Summer outperformed all other seasons.
+- Despite being the least busy season, Winter still recorded 23,993 flights. Offering travel incentives during this period, such as discounts on winter destinations, could help increase seat occupancy and improve overall efficiency.
+- North America’s seasonal demand aligns with traditional holidays, while Asian markets show year-round travel due to business and leisure travel overlaps.
+
+## Recommendations: 
+Based on the insights above, we recommend businesses to consider:
+
+1. Continue optimizing fleet utilization and staffing levels during the summer months. Additionally, introducing premium pricing strategies for peak travel days could maximize profitability while maintaining demand.
+  
+2. Design tailored marketing campaigns focused on frequent travelers to Western countries like the United States and Australia. For example, airlines can offer loyalty programs for these regions and give bonuses to those who fly during a specific season of the year.
+  
+3. Reduce Delays by increasing workforce allocation and ground support during weekday peak hours in North American airports. Partnering with local air traffic control to optimize scheduling and reduce congestion will also be critical.
+   
+4. Introduce discounted fares and bundle deals (e.g., flight + hotel) for winter travel to encourage bookings. Highlight winter destinations and experiences through seasonal advertising campaigns.
+   
+5. Reallocating resources to delay-prone seasons like Fall to plan for disruptions and adjust schedules accordingly.
+
+## Caveats:
