@@ -76,3 +76,13 @@ Based on the insights above, we recommend businesses to consider:
 5. Reallocating resources to delay-prone seasons like Fall to plan for disruptions and adjust schedules accordingly.
 
 ## Caveats:
+Throughout this analysis, multiple assumptions and caveats were made to combat the challenges within the data. They are noted below:
+
+- Data Completeness: Assumes no missing records for flight counts or delays.
+- Passenger Nationality: Passengers with missing nationality data were excluded.
+- Seasonal Delays: Assumes consistent definitions of seasons across all regions.
+- Limited Data of 2022: The analysis is based solely on flight and passenger data from 2022. Therefore, some insights may vary in subsequent years.
+- Passenger-Centric Approach Instead of Sales: Due to the absence of sales data in the dataset, the analysis pivoted to a passenger-centric approach, focusing on demographics, travel volume, and delay patterns.
+
+
+
