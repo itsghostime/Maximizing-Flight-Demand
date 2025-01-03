@@ -11,3 +11,9 @@ Interactive Tableau dashboard can be found [here](https://public.tableau.com/vie
 
 
 ---
+### North Star Metrics and Dimensions 
+- Achieve an **85% on-time flight performance globally**, focusing on minimizing delays
+- **Flight Volume**: Total flights per year (**98,619 flights**) across all continents.
+- **Flight Status**:  Current status of the flight (e.g., on-time, delayed, canceled)
+- ** Country Name **: Name of the country the airport is located in
+
