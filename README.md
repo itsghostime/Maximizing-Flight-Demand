@@ -23,3 +23,11 @@ Interactive Tableau dashboard can be found [here](https://public.tableau.com/vie
 
 Operations in the airline industry, focusing on global passenger travel across major countries. With over 98,000 annual flights in 2022, the airline aims to provide seamless travel experiences while optimizing operational efficiency. The airline's business model revolves around analyzing trends in passenger behavior, improving on-time performance, and enhancing overall flight operations. Key metrics include passenger counts, flight delays, and seasonal travel trends. 
 
+Insights and recommendations are provided on the following key areas:
+- Passenger Demographics Analysis: Evaluation of passenger distribution across nationalities, age groups, and genders to understand key customer segments and their travel patterns.
+
+- Flight Status Trends: Analysis of on-time performance, delays, and cancellations to identify operational efficiencies and areas requiring improvement.
+
+- Seasonal and Regional Impacts: Examination of flight volumes and delays across different months, weekdays, and regions to highlight demand trends and operational bottlenecks.
+
+SQL queries used to inspect the data and answer key business questions [here](
