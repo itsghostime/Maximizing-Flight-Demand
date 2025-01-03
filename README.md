@@ -41,7 +41,8 @@ In 2022, the airline industry demonstrated consistent travel demand, with over 9
 ## Insights Deep Dive
 
 ### Flight Volume Trends
-
+- **Seasonal peaks**: Summer recorded the highest flight volumes (25,123), while Winter saw a dip to 23,993 flights.
+- **Steady growth**: A 3-month moving average revealed a stable upward trend, signaling growing confidence in air travel.
 
 
 
