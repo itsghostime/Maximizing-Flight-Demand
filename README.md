@@ -28,7 +28,7 @@ Insights and recommendations are provided on the following key areas:
 
 - Seasonal and Regional Impacts: Examination of flight volumes and delays across different months, weekdays, and regions to highlight demand trends and operational bottlenecks.
 
-Kaggle Dataset : [here](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
+Kaggle Dataset: [here](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
 
 SQL queries used to inspect the data and answer key business questions [here](Query_Airline.sql)
 
