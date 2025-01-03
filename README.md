@@ -8,6 +8,7 @@ Interactive Tableau dashboard can be found [here](https://public.tableau.com/vie
 
 ## Dashboard Preview
 
-![Dashboard Preview](file:///Users/seangee/Downloads/Dashboard%201.png](https://github.com/itsghostime/Maximizing-Flight-Demand/blob/main/Dashboard%201.png?raw=true))
+![Dashboard Preview]![image](https://github.com/user-attachments/assets/f2cce10b-eb1e-431d-aba5-0acb664c24bb)
+
 
 ---
