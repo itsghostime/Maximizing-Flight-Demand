@@ -66,6 +66,34 @@ In 2022, the airline industry demonstrated consistent travel demand, with over 9
 - Despite being the least busy season, Winter still recorded 23,993 flights. Offering travel incentives during this period, such as discounts on winter destinations, could help increase seat occupancy and improve overall efficiency.
 - North America’s seasonal demand aligns with traditional holidays, while Asian markets show year-round travel due to business and leisure travel overlaps.
 
+## Predictive Model Section: Classification and Delay Analysis
+
+### Overview of the Predictive Model
+A classification model using a Random Forest Classifier was built to predict flight delay probabilities based on key features such as season, country name, airport continent, weekend indicator, and age group. The model aimed to provide actionable insights for stakeholders by identifying patterns in delayed and on-time flights.
+
+### Insights from Predictions
+Delay Probability Analysis:
+- In Spring, Wallis and Futuna exhibited the highest delay probability at 40%, followed by Cabo Verde and Switzerland.
+- In Fall, delays were most common in Wallis and Futuna and Palestine, with probabilities exceeding 35%.
+- During Winter, Cabo Verde consistently had one of the highest delay probabilities.
+- In Summer, Czechia and Samoa were among the top countries with significant delay probabilities.
+
+On-Time Probability Analysis:
+- In Winter, Djibouti and Georgia had the highest on-time probabilities (~30%).
+- During Fall, Djibouti and Gibraltar led with on-time probabilities.
+- Spring and Summer followed similar patterns, with countries like Djibouti and Gibraltar consistently achieving higher probabilities of on-time flights.
+
+Confusion Matrix: 
+- True Positives (correctly predicted delays) were low.
+- A significant proportion of delays were misclassified as "not delayed," reflected in low recall scores (12% for delays).
+- While precision for delays (~34%) was reasonable, the model struggled to capture the full extent of delay patterns.
+![image](https://github.com/user-attachments/assets/54981c06-d25d-41ca-8c8e-7b258df30c74)
+
+Performance Metrics:
+- The model achieved an accuracy of 33%, indicating room for improvement in predictive capability.
+- F1-scores were low across all classes, with delayed flights achieving the weakest score (0.18).
+![image](https://github.com/user-attachments/assets/296642ff-bd09-4584-b19f-a325ba1d9a83)
+
 ## Recommendations: 
 Based on the insights above, we recommend businesses to consider:
 
@@ -79,6 +107,8 @@ Based on the insights above, we recommend businesses to consider:
    
 5. Reallocating resources to delay-prone seasons like Fall to plan for disruptions and adjust schedules accordingly.
 
+6. Despite the limitations of predictive modeling, we can use this data as a basis for understanding flight status within airline companies and focus on cancelation and cancellation patterns and their potential causes. 
+
 ## Caveats:
 Throughout this analysis, multiple assumptions and caveats were made to combat the challenges within the data. They are noted below:
 
@@ -87,6 +117,9 @@ Throughout this analysis, multiple assumptions and caveats were made to combat t
 - Seasonal Delays: Assumes consistent definitions of seasons across all regions.
 - Limited Data of 2022: The analysis is based solely on flight and passenger data from 2022. Therefore, some insights may vary in subsequent years.
 - Passenger-Centric Approach Instead of Sales: Due to the absence of sales data in the dataset, the analysis pivoted to a passenger-centric approach, focusing on demographics, travel volume, and delay patterns.
+- Predictive Modeling struggled as features like country name and season provided valuable context, but required more granular data (e.g., exact delay durations, airport congestion) to enhance predictive accuracy.
+- Additionally, the absence of critical operational variables like weather conditions and staffing may have reduced the model's predictive power.
+
 
 
 
