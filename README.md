@@ -44,7 +44,7 @@ In 2022, the airline industry demonstrated consistent travel demand, with over 9
 - Summer recorded the highest flight volumes (25,123), while Winter saw a dip to 23,993 flights.
 - A 3-month moving average revealed a stable upward trend, signaling growing confidence in air travel.
 -The months of January, May, and August showed significant peaks in flight activity. January's spike was attributed to New Year travel, while May and August aligned with summer vacations.
-(![image](https://github.com/user-attachments/assets/fe17b0cf-a4e5-461f-bc03-c3676f74fdfd)
+![image](https://github.com/user-attachments/assets/fe17b0cf-a4e5-461f-bc03-c3676f74fdfd)
 
 
 ### Passenger Demographics
