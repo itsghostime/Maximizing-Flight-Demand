@@ -8,7 +8,7 @@ Interactive Tableau dashboard can be found [here](https://public.tableau.com/vie
 
 ## Dashboard Preview
 
-![Dashboard Preview]![image](https://github.com/user-attachments/assets/f2cce10b-eb1e-431d-aba5-0acb664c24bb)
+![image](https://github.com/user-attachments/assets/f2cce10b-eb1e-431d-aba5-0acb664c24bb) 
 
 
 ---
