@@ -4,7 +4,6 @@
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/Airline-Project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
----
 
 ## Dashboard Preview
 
