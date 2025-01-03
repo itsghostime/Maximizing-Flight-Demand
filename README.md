@@ -2,8 +2,6 @@
 
 **Analyzing Passenger Demographic and Flight Status trends from the months of 2022.** 
 
-Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/Airline-Project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
-
 
 ## Dashboard Preview
 
@@ -30,4 +28,20 @@ Insights and recommendations are provided on the following key areas:
 
 - Seasonal and Regional Impacts: Examination of flight volumes and delays across different months, weekdays, and regions to highlight demand trends and operational bottlenecks.
 
-SQL queries used to inspect the data and answer key business questions [here](
+SQL queries used to inspect the data and answer key business questions [here](Query_Airline.sql)
+
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/Airline-Project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+
+
+## Executive Summary
+---
+### Overview of Findings
+In 2022, the airline industry demonstrated consistent travel demand, with over 98,000 flights and a clear preference for summer travel. Adults, particularly Chinese and Indonesian nationals, made up the majority of passengers, highlighting lucrative marketing opportunities in these demographics. However, operational challenges persist, as North America experiences the highest delays (60%), especially on weekdays, with peak disruptions occurring in January and July. While these values can be attributed to airlines recovering from the pandemic, the following sections will explore additional factors and strategies that can be improved upon to enhance operational efficiency and customer satisfaction.
+
+## Insights Deep Dive
+
+### Flight Volume Trends
+
+
+
+
